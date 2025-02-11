@@ -1,12 +1,13 @@
 @font-face{
   font-family: water;
-  src: url("https://cdn.glitch.global/97f7bbb3-2cd9-4b34-bbf2-d0a28c71f10b/Water%20Park.ttf?v=1738683075854");
+  src: url("https://cdn.glitch.global/b3771ccc-afac-4b94-9579-df15bdb0288c/Pinky%20Show.ttf?v=1739291465147");
 }
 
 body {
-  background-color: aliceblue;
+  background-color: navy;
   text-align: center;
-  color: navy;
+  color: blue
+    ;
   margin: auto;
   font-family: water;
 }
@@ -16,7 +17,8 @@ h1{
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+ 
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/006/852/412/small_2x/under-the-sea-background-free-vector.jpg");
   background-size: 600px 400px;
   border-radius: 300px;
   border: 5px solid white;
